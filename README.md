@@ -26,7 +26,6 @@ This repository demonstrates the implementation of a conversational AI chatbot u
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/gemini-ai-chatbot.git
-   cd gemini-ai-chatbot
    ```
 
 2. Install dependencies:
